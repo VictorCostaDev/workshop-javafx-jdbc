@@ -35,4 +35,5 @@ nbdist/
 # Eclipse
 .settings/
 
+# Database
 db.properties
